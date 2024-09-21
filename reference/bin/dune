@@ -1,0 +1,5 @@
+(executable
+ (public_name nemo)
+ (name main)
+ (libraries nemo))
+ (env (dev (flags (:standard -warn-error -A))))

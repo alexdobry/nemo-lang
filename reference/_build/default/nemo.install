@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/nemo/META"
+  "_build/install/default/lib/nemo/dune-package"
+  "_build/install/default/lib/nemo/opam"
+]
+bin: [
+  "_build/install/default/bin/nemo"
+]
